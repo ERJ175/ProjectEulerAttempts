@@ -2,7 +2,7 @@
 
 int main(void){
     int n;
-    int a = 1;
+    int a = 8;
     printf("how many rows? ");
     scanf("%d", &n);
     for (int i = 1; i <= n; i++){
